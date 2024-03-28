@@ -1,5 +1,17 @@
 # Changelog
 
+## \[2.0.0-beta.11]
+
+### Bug Fixes
+
+- [`4c0c780e0`](https://www.github.com/tauri-apps/tauri/commit/4c0c780e00d8851be38cb1c22f636d9e4ed34a23)([#2690](https://www.github.com/tauri-apps/tauri/pull/2690)) Fix window inner size evaluation on macOS.
+- [`5bd47b446`](https://www.github.com/tauri-apps/tauri/commit/5bd47b44673f74b1b4e8d704b7a95539915ede76)([#9246](https://www.github.com/tauri-apps/tauri/pull/9246)) Fix webview's visibility doesn't change with the app window
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.0.0-beta.11`
+- Upgraded to `tauri-runtime@2.0.0-beta.11`
+
 ## \[2.0.0-beta.10]
 
 ### Dependencies
